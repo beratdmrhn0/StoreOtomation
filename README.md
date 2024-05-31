@@ -1,1 +1,1 @@
-This project is the implementation of a store automation system coded in C++. It provides store owners with the ability to easily manage inventory, handle sales transactions, and track customers. The system includes basic functionalities such as adding, updating, and deleting products, as well as advanced features like sales reports and inventory control. With a user-friendly interface, this application aims to make store operations more efficient and organized.
+
