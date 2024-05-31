@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/simgeler">
+        <file>mgz_uygulama_simgesi.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>amoled.qss</file>
+        <file>aqua.qss</file>
+        <file>console_style.qss</file>
+        <file>elegant_dark.qss</file>
+        <file>manjaro_mix.qss</file>
+        <file>material_dark.qss</file>
+        <file>ubuntu.qss</file>
+    </qresource>
+    <qresource prefix="/simgeler/veri">
+        <file>mgz_duzenle.png</file>
+        <file>mgz_ekle.png</file>
+    </qresource>
+</RCC>
